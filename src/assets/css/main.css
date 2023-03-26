@@ -834,6 +834,7 @@ h4 {
   right: -10rem;
 }
 .feedback {
+  overflow: hidden;
   background-color: #f7e7e6;
   padding: 9rem 0;
 }
